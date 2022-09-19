@@ -1,4 +1,4 @@
-### 软件工程---小王同学 👋
+### 软件工程---Atopos 👋
 
 **3254545606/3254545606** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,6 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-![](https://github-readme-stats.vercel.app/api?username=小王同学)
+![](https://github-readme-stats.vercel.app/api?username=Atopos)
 
 
