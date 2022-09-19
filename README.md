@@ -1,8 +1,7 @@
 # 软件工程---Atopos 👋
 
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=3254545606&theme=highcontrast)
-![](https://github-readme-stats.vercel.app/api?username=3254545606&theme=synthwave&show_icons=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=3254545606&theme=highcontrast) ![](https://github-readme-stats.vercel.app/api?username=3254545606&theme=synthwave&show_icons=true)
 
 I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here -
 
