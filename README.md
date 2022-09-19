@@ -1,6 +1,9 @@
 # 软件工程---Atopos 👋
 
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=3254545606&theme=highcontrast)
+![](https://github-readme-stats.vercel.app/api?username=3254545606&theme=synthwave&show_icons=true)
+
 I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here -
 
 
@@ -28,17 +31,9 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
 
-<h2 align="center">My stack :man_technologist:</h2>
 
-<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
-<p align="center">
-  <a href="https://stackshare.io/anhello/my-personal-stack">
-    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
-  </a>
-</p>
 
 <h2 align="center">Github stats :bar_chart:</h2>
-
 
 <h4 align="center">Top langs :tongue:</h4>
 
@@ -46,7 +41,4 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=3254545606&show_icons=true&theme=synthwave" alt="3254545606 :: Profile Stats" /></p>
-
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
