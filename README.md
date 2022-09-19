@@ -1,20 +1,11 @@
-### 软件工程---Atopos 👋
+# 软件工程---Atopos 👋
 
 ![](https://github-readme-stats.vercel.app/api?username=3254545606&show_icons=true&theme=radical)
 
 
 
-# Hi there 👋
-
 I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here -
 
-[![Twitter Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Twitter&logoColor=white&link=https://twitter.com/moshfiqrony/)](https://twitter.com/moshfiqrony/)
-[![Facebook Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/moshfiqrony/)](https://www.facebook.com/moshfiqrony/)
-[![Linkedin Badge](https://img.shields.io/badge/-moshfiqrony-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/moshfiqrony/)](https://www.linkedin.com/in/moshfiqrony/)
-[![Medium Badge](https://img.shields.io/badge/-@moshfiqrony-black?style=plastic&labelColor=000000&logo=Medium&link=https://medium.com/@moshfiqrony/)](https://medium.com/@moshfiqrony)
-[![Gmail Badge](https://img.shields.io/badge/-15203012@iubat.edu-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:15203012@iubat.edu)](mailto:15203012@iubat.edu)
-[![Youtube Badge](https://img.shields.io/badge/-ProgSoft%20MR-darkred?style=plastic&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)](https://www.youtube.com/channel/UCZz07tLC8RqmCxc5nDGs9Xw)
-[![Instagram Badge](https://img.shields.io/badge/-moshfiqrony-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/moshfiqrony)
 
 - 🏢 I'm currently working at **Worklife**
 - 🚀 I use daily:
@@ -39,10 +30,68 @@ I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Sp
   ![Node.JS](https://img.shields.io/badge/-Node.JS-black?style=plastic&logo=Node.js) ![Express.JS](https://img.shields.io/badge/-Express.JS-c7b198?style=plastic&logo=Express.JS) ![Graphql](https://img.shields.io/badge/-Graphql-E10098?style=plastic&logo=Graphql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=plastic&logo=mongodb)
 - ⚡️ Fun fact: I'm a huge fan of Iron Man, I love to eat and travel
-
-[![moshfiqrony's github stats](https://github-readme-stats.vercel.app/api?username=moshfiqrony&theme=dark&show_icons=true)](https://github.com/moshfiqrony)
-[![moshfiqrony's StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=9418800)](https://stackoverflow.com/users/9418800/moshfiqrony)
-
-
 # Read my recent blog's
 All these are friend link you can access for free
+
+
+<h2 align="center">You can reach me at :alien:</h2>
+
+<p align="center">
+  <a href="https://dev.to/anhello">
+    <img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Angel Santiago Jaime Zavala's DEV Profile" height="30" width="30">
+  </a>
+
+  <a href="https://www.linkedin.com/in/angel-santiago-jaime-zavala-601813199/">
+    <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Angel Santiago Jaime Zavala's LinkedIn Profile" height="30" width="30">
+  </a>
+
+  <a href="https://stackoverflow.com/users/2946413/angel-santiago-jaime-zavala?tab=profile">
+    <img src="https://www.vectorlogo.zone/logos/stackoverflow/stackoverflow-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Overflow Profile" height="30" width="30">
+  </a>
+
+  <a href="https://stackexchange.com/users/3525056/angel-santiago-jaime-zavala">
+    <img src="https://www.vectorlogo.zone/logos/stackexchange/stackexchange-icon.svg" alt="Angel Santiago Jaime Zavala's Stack Exchange Profile" height="30" width="30">
+  </a>
+
+  <a href="https://stackshare.io/anhello">
+    <img src="https://cdn.worldvectorlogo.com/logos/stackshare.svg" alt="Angel Santiago Jaime Zavala's StackShare Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://gitlab.com/AnhellO">
+    <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Angel Santiago Jaime Zavala's GitLab Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://medium.com/@ajzavala">
+    <img src="https://www.vectorlogo.zone/logos/medium/medium-tile.svg" alt="Angel Santiago Jaime Zavala's Medium Profile" height="30" width="30">
+  </a>
+  
+  <a href="https://www.youtube.com/channel/UCPUwB4x7_6Dbvwsnfbe1yiQ">
+    <img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="Angel Santiago Jaime Zavala's YouTube Channel" height="30" width="30">
+  </a>
+</p>
+
+<h2 align="center">My stack :man_technologist:</h2>
+
+<p align="center">Tools that I use on a daily basis, or that I've used or worked (either much or a bit) with on the past</p>
+<p align="center">
+  <a href="https://stackshare.io/anhello/my-personal-stack">
+    <img src="http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat" alt="AnhellO :: StackShare" />
+  </a>
+</p>
+
+<h2 align="center">Github stats :bar_chart:</h2>
+
+<h4 align="center">Visitor's count :eyes:</h4>
+
+<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+
