@@ -8,7 +8,7 @@
 
 
 - 🏢 我目前就读于石家庄贴袋大学软件工程系，是一名热爱it领域的学生，希望能成为一名软件架构师
-- 🚀 我已经学习:
+- 🚀 我正在学习:
   ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
   ![Python](https://img.shields.io/badge/-Python-8fcfd1?style=plastic&logo=Python)
   ![Git](https://img.shields.io/badge/-Git-black?style=plastic&logo=git)
