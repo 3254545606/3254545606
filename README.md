@@ -4,7 +4,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=3254545606&theme=highcontrast)
 ![](https://github-readme-stats.vercel.app/api?username=3254545606&theme=synthwave&show_icons=true)
 
-I love to talk on trending ⚡ technology ⚡, I have huge attraction on 🔭 Spacex 🔭 and I am a bit 😄 mad 😄 when I code. Connect with me here -
+大家好，我是小王同学。希望能学到更多的知识。
 
 
 - 🏢 我目前就读于石家庄贴袋大学软件工程系，是一名热爱it领域的学生，希望能成为一名软件架构师
